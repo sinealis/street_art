@@ -389,3 +389,8 @@ section.home {
 		font-size: 1rem;
 	}
 }
+@media (max-width: 26.25rem) {  /* 420px */
+	.home-content {
+		padding-top: 1.875rem; /* 30px */
+	}
+}
